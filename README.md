@@ -4,7 +4,7 @@ Este repositório contém o código e os recursos necessários para criar um sis
 
 # Recursos Incluídos:
 - Código-fonte em Arduino para o ESP32, permitindo a comunicação e controle da iluminação.
-- Esquema de conexão detalhado para integrar o ESP32, módulo dimmer, jumpers e potenciômetro.
+- Esquema de conexão para integrar o ESP32, módulo dimmer, jumpers e potenciômetro para ajuste manual.
 
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novos recursos.
